@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/www.linkedin.com/in/abdus-samad-b70951200" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdus-samad-b70951200" height="30" width="40" /></a>
-    <a href="https://www.codingninjas.com/studio/profile/big_bang" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.codingninjas.com/studio/profile/big_bang" height="30" width="40" /></a>
+    <a href="[https://www.codingninjas.com/studio/profile/big_bang](https://www.codingninjas.com/studio/profile/BIG_BANG)" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.codingninjas.com/studio/profile/big_bang" height="30" width="40" /></a>
 </p>
 
 
