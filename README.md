@@ -17,7 +17,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/abdus-samad-b70951200/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdus-samad-b70951200/" height="30" width="40" /></a>
    <a href="https://www.codingninjas.com/studio/profile/BIG_BANG" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Coding Ninjas Logo" height="30" width="40" />
+    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Coding Ninjas Logo" height="50" width="40" />
 </a>
 
 </p>
