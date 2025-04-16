@@ -13,11 +13,15 @@
 
 - 📫 How to reach me **samadabdus0007@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check it Out!!🛠️</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/abdus-samad-b70951200/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdus-samad-b70951200/" height="30" width="40" /></a>
    <a href="https://www.codingninjas.com/studio/profile/BIG_BANG" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Coding Ninjas Logo" height="40" width="60" />
+    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Coding Ninjas Logo" height="40" width="60"style="margin-left: 10px;" />
+   <a href="https://leetcode.com/u/samad_abdus/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" height="40" width="40" style="margin-left: 10px;" />
+</a>
+
 </a>
 
 </p>
