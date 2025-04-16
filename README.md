@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdus Samad</h1>
-<h3 align="center">🚀 MERN stack developer passionate about creating seamless web experiences. Expert in MongoDB, Express.js, React.js, and Node.js. Let's build something amazing.</h3>
+<h3 align="center">🚀 Full-Stack Developer | Proficient in Python, JavaScript, Node.js, React, Express, Flask, and Redux. Experienced with both SQL (MySQL, SQLite) and NoSQL (MongoDB) databases. I build scalable backend systems, clean UIs, and enjoy architecting robust solutions. System design enthusiast always exploring better ways to build and scale applications. Let’s create something extraordinary!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0big-bang0&label=Profile%20views&color=0e75b6&style=flat" alt="0big-bang0" /> </p>
 
